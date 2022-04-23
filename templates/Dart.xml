@@ -1,0 +1,8 @@
+<templateSet group="Dart">
+  <template name="testWidget" value="testWidgets(&quot;$testDescription$&quot;, (WidgetTester tester) async {&#10;&#10;})" description="Create a Flutter Widget test" toReformat="false" toShortenFQNames="true">
+    <variable name="testDescription" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
